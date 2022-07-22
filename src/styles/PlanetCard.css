@@ -1,0 +1,170 @@
+.planets-card {
+  padding: 20px;
+}
+
+.planet-card {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.planet {
+  margin-top: 10px;
+}
+
+.planet:hover {
+  transform: scale(1.2);
+  transition: all 0.5s ease-in-out;
+}
+
+.planet-name {
+  font-size: 20px;
+}
+
+.Mercúrio {
+  width: 41px;
+}
+
+.Vênus {
+  width: 102px;
+}
+
+.Terra {
+  width: 106px;
+}
+
+.Marte {
+  width: 66px;
+}
+
+.Júpiter {
+  width: 272px;
+}
+
+.Saturno {
+  width: 282px;
+}
+
+.Urano {
+  width: 144px;
+}
+
+.Netuno {
+  width: 144px;
+}
+
+@media (max-width: 1210px) {
+  .Mercúrio {
+    width: 20px;
+  }
+
+  .Vênus {
+    width: 51px;
+  }
+
+  .Terra {
+    width: 53px;
+  }
+
+  .Marte {
+    width: 33px;
+  }
+
+  .Júpiter {
+    width: 136px;
+  }
+
+  .Saturno {
+    width: 141px;
+  }
+
+  .Urano {
+    width: 72px;
+  }
+
+  .Netuno {
+    width: 72px;
+  }
+
+  .planet-name {
+    font-size: 15px;
+  }
+
+}
+
+@media (max-width: 680px) {
+  .Mercúrio {
+    width: 14px;
+  }
+
+  .Vênus {
+    width: 35px;
+  }
+
+  .Terra {
+    width: 37px;
+  }
+
+  .Marte {
+    width: 23px;
+  }
+
+  .Júpiter {
+    width: 97px;
+  }
+
+  .Saturno {
+    width: 101px;
+  }
+
+  .Urano {
+    width: 52px;
+  }
+
+  .Netuno {
+    width: 52px;
+  }
+
+  .planet-name {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 450px) {
+  .Mercúrio {
+    width: 10px;
+  }
+
+  .Vênus {
+    width: 25px;
+  }
+
+  .Terra {
+    width: 26px;
+  }
+
+  .Marte {
+    width: 16px;
+  }
+
+  .Júpiter {
+    width: 68px;
+  }
+
+  .Saturno {
+    width: 70px;
+  }
+
+  .Urano {
+    width: 36px;
+  }
+
+  .Netuno {
+    width: 36px;
+  }
+
+  .planet-name {
+    font-size: 10px;
+  }
+}
