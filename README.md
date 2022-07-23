@@ -1,6 +1,6 @@
 # Boas-vindas ao repositório do projeto Solar System!
 
-![Tela do Projeto](/tela.jpeg)
+![Tela do Projeto](/tela.gif)
 <br/>
 <br/>
 
