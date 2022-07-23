@@ -32,6 +32,8 @@ Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa apli
 
 - Criar todo o layout e estilização do projeto segindo o design no Figma.
 
+- Construir a página de forma responsiva, utilizando media query;
+
 ## Requisitos 
 
 - [x] Crie um componente chamado Header
