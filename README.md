@@ -35,13 +35,22 @@ Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa apli
 ## Requisitos 
 
 - [x] Crie um componente chamado Header
+
 - [x] Crie um componente chamado SolarSystem
+
 - [x] Crie um componente chamado Title
+
 - [x] Renderize o componente Title dentro do componente SolarSystem
+
 - [x] Crie um componente chamado PlanetCard
+
 - [x] Renderize uma lista com os planetas do Sistema Solar
+
 - [x] Crie um componente chamado Missions.
+
 - [x] Renderize o componente Title dentro do componente Missions
+
 - [x] Crie um componente chamado MissionCard.
+
 - [x] Renderize uma lista com as missões espaciais
 
