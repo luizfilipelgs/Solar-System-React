@@ -1,6 +1,8 @@
 # Boas-vindas ao repositório do projeto Solar System!
 
-![Tela do Projeto](/solar-system.gif)
+<div align="center">
+  <img align="center" src = "solar-system.gif" width=800 />
+ </div>
 <br/>
 <br/>
 
