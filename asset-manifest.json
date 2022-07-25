@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/app-toot-name/static/css/main.59eb52b1.css",
-    "main.js": "/app-toot-name/static/js/main.05768f7f.js",
-    "static/media/background.png": "/app-toot-name/static/media/background.0dced38ca9c5cd176fed.png",
-    "static/media/Mercurio.png": "/app-toot-name/static/media/Mercurio.a7105a56cdf707dc3cce.png",
-    "static/media/Terra.png": "/app-toot-name/static/media/Terra.990ac782d3b62d230d28.png",
-    "static/media/Venus.png": "/app-toot-name/static/media/Venus.397fdee264550fe0d0d1.png",
-    "static/media/Marte.png": "/app-toot-name/static/media/Marte.6cae79d3ef1a90069610.png",
-    "static/media/Jupiter.png": "/app-toot-name/static/media/Jupiter.529cdbe0cad25f29f533.png",
-    "static/media/Netuno.png": "/app-toot-name/static/media/Netuno.48cf14b71b63a23d6f8a.png",
-    "static/media/Saturno.png": "/app-toot-name/static/media/Saturno.00b7295f54e9af9bbe90.png",
-    "static/media/Urano.png": "/app-toot-name/static/media/Urano.607cb33ce7cb511e3d9c.png",
-    "index.html": "/app-toot-name/index.html",
-    "main.59eb52b1.css.map": "/app-toot-name/static/css/main.59eb52b1.css.map",
-    "main.05768f7f.js.map": "/app-toot-name/static/js/main.05768f7f.js.map"
+    "main.css": "/Solar-System-React/static/css/main.30d88102.css",
+    "main.js": "/Solar-System-React/static/js/main.a5a1aeda.js",
+    "static/media/background.png": "/Solar-System-React/static/media/background.0dced38ca9c5cd176fed.png",
+    "static/media/Mercurio.png": "/Solar-System-React/static/media/Mercurio.a7105a56cdf707dc3cce.png",
+    "static/media/Terra.png": "/Solar-System-React/static/media/Terra.990ac782d3b62d230d28.png",
+    "static/media/Venus.png": "/Solar-System-React/static/media/Venus.397fdee264550fe0d0d1.png",
+    "static/media/Marte.png": "/Solar-System-React/static/media/Marte.6cae79d3ef1a90069610.png",
+    "static/media/Jupiter.png": "/Solar-System-React/static/media/Jupiter.529cdbe0cad25f29f533.png",
+    "static/media/Netuno.png": "/Solar-System-React/static/media/Netuno.48cf14b71b63a23d6f8a.png",
+    "static/media/Saturno.png": "/Solar-System-React/static/media/Saturno.00b7295f54e9af9bbe90.png",
+    "static/media/Urano.png": "/Solar-System-React/static/media/Urano.607cb33ce7cb511e3d9c.png",
+    "index.html": "/Solar-System-React/index.html",
+    "main.30d88102.css.map": "/Solar-System-React/static/css/main.30d88102.css.map",
+    "main.a5a1aeda.js.map": "/Solar-System-React/static/js/main.a5a1aeda.js.map"
   },
   "entrypoints": [
-    "static/css/main.59eb52b1.css",
-    "static/js/main.05768f7f.js"
+    "static/css/main.30d88102.css",
+    "static/js/main.a5a1aeda.js"
   ]
 }
