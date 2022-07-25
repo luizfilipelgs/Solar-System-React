@@ -32,7 +32,7 @@ Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa apli
 
 - Fazer uso de PropTypes para validar as props de um componente.
 
-- Criar todo o layout e estilização do projeto segindo o design no Figma.
+- Criar todo o layout e estilização do projeto seguindo o design no Figma.
 
 - Construir a página de forma responsiva, utilizando media query;
 
